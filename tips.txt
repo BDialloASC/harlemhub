@@ -1,0 +1,4 @@
+use
+ pip install -r requirements.txt 
+to install the dependencies for this project
+then just either python2.7 flask-app/harlemhub.py or ./run.sh to run the server. for pushing to production, leave that to haze.
